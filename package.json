@@ -71,7 +71,7 @@
     "@babel/core": "^7.16.0",
     "@babel/preset-env": "^7.16.4",
     "@babel/preset-typescript": "^7.16.0",
-    "@devsnowflake/docgen": "devsnowflake/docgen#ts-patch",
+    "@devsnowflake/docgen": "github:devsnowflake/docgen#ts-patch",
     "@discord-player/extractor": "^3.0.2",
     "@discordjs/opus": "github:discordjs/opus",
     "@favware/rollup-type-bundler": "^1.0.6",
@@ -88,5 +88,13 @@
     "rimraf": "^3.0.2",
     "ts-node": "^10.4.0",
     "typescript": "^4.5.2"
+  },
+  "bugs": {
+    "url": "https://github.com/TheMonDon/discord-player/issues"
+  },
+  "homepage": "https://github.com/TheMonDon/discord-player#readme",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
   }
 }
